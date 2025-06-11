@@ -1,4 +1,5 @@
-// app.js
+console.log('App loaded!');
+
 function sayHello(name) {
   return `Hello, ${name}!`;
 }
